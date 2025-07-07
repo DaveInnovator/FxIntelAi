@@ -6,11 +6,9 @@ function Footer() {
           &copy; {new Date().getFullYear()} <span className="text-teal-400 font-semibold">FXIntel.AI</span>. All rights reserved.
         </div>
 
-        {/* <div className="flex space-x-4 text-sm">
-          <a href="/privacy" className="hover:text-teal-400 transition-all">Privacy</a>
-          <a href="/terms" className="hover:text-teal-400 transition-all">Terms</a>
-          <a href="mailto:support@fxintel.ai" className="hover:text-teal-400 transition-all">Support</a>
-        </div> */}
+        <div className="flex space-x-4 text-sm">
+          <p className="text-white text-lg font-bold">NOTE:AI might be wrong</p>
+        </div>
       </div>
 
       <div className="mt-4 text-center text-xs text-gray-500">

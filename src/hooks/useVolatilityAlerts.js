@@ -25,7 +25,7 @@ export function useVolatilityAlerts(pairs = []) {
 
       for (const pair of pairs) {
         const current = getPrice(pair);
-        const prev = previousPrices[pair] || current - 0.015; // Force fake spike
+        const prev = previousPrices[pair] || current - 0.015; 
 
         const change = Math.abs(current - prev) / prev;
         const percentage = (change * 100).toFixed(2);
