@@ -1,12 +1,29 @@
-# React + Vite
+#FxIntelAi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*FXIntel.AI** is a real-time forex intelligence platform that helps traders make smarter moves using AI-generated insights, trading signals, and volatility alerts — all delivered in a clean, dark, mobile-friendly UI.
 
-Currently, two official plugins are available:
+> Built by [@olarindedavid](https://davidolarinde.vercel.app/) | Powered by AI, made for precision traders. 🧠📈
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📊 **Live FX Charts** – View real-time forex price movement
+- 🤖 **AI Trading Signals** – Buy/sell calls with entry, TP, and SL
+- 📡 **Volatility Alerts** – Get notified when market swings happen
+- 📰 **News Summary** – Market headlines distilled into bite-size insights
+- 💬 **AI Chat Assistant** – Chat with a forex-literate AI 24/7
+- 📱 **Fully Responsive** – Mobile-first design, dark UI
+- 🧩 **Component-Based** – Built with React + Vite + TailwindCSS
+
+---
+
+## 🚀 Tech Stack
+
+| Tool             | Purpose                         |
+|------------------|----------------------------------|
+| **React + Vite** | Frontend framework               |
+| **TailwindCSS**  | Styling                          |
+| **OpenAI / HF / Groqq** | AI-powered signals & chatbot     |
+| **TwelveData API** | Forex pricing & chart data      |
+| **GNews  | Market news + sentiment          |
